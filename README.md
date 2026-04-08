@@ -63,6 +63,6 @@
 
 ---
 
-*🔒 Profil discret · 🌑 En construction perpétuelle · 🎲 Toujours en train d'explorer et surement perdu pour la nation*
+*🔒 Profil discret malheureusement · 🌑 En construction perpétuelle · 🎲 Toujours en train d'explorer et surement perdu pour la nation*
 
 </div>
