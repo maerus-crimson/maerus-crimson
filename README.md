@@ -2,40 +2,18 @@
 <div align="center">
 
 ```
-/================================================================================\
-||                                                                              ||
-||   .S_SsS_S.    .S_SSSs      sSSs   .S_sSSs     .S       S.     sSSs          ||
-||  .SS~S*S~SS.  .SS~SSSSS    d%%SP  .SS~YS%%b   .SS       SS.   d%%SP          ||
-||  S%S `Y' S%S  S%S   SSSS  d%S'    S%S   `S%b  S%S       S%S  d%S'            ||
-||  S%S     S%S  S%S    S%S  S%S     S%S    S%S  S%S       S%S  S%|             ||
-||  S%S     S%S  S%S SSSS%S  S&S     S%S    d*S  S&S       S&S  S&S             ||
-||  S&S     S&S  S&S  SSS%S  S&S_Ss  S&S   .S*S  S&S       S&S  Y&Ss            ||
-||  S&S     S&S  S&S    S&S  S&S~SP  S&S_sdSSS   S&S       S&S  `S&&S           ||
-||  S&S     S&S  S&S    S&S  S&S     S&S~YSY%b   S&S       S&S    `S*S          ||
-||  S*S     S*S  S*S    S&S  S*b     S*S   `S%b  S*b       d*S     l*S          ||
-||  S*S     S*S  S*S    S*S  S*S.    S*S    S%S  S*S.     .S*S    .S*P          ||
-||  S*S     S*S  S*S    S*S   SSSbs  S*S    S&S   SSSbs_sdSSS   sSS*S           ||
-||  SSS     S*S  SSS    S*S    YSSP  S*S    SSS    YSSP~YSSY    YSS'            ||
-||          SP          SP           SP                                         ||
-||          Y           Y            Y                                          ||
-||                                                                              ||
-||    sSSs   .S_sSSs     .S    sSSs   .S_SsS_S.     sSSs_sSSs     .S_sSSs       ||
-||   d%%SP  .SS~YS%%b   .SS   d%%SP  .SS~S*S~SS.   d%%SP~YS%%b   .SS~YS%%b      ||
-||  d%S'    S%S   `S%b  S%S  d%S'    S%S `Y' S%S  d%S'     `S%b  S%S   `S%b     ||
-||  S%S     S%S    S%S  S%S  S%|     S%S     S%S  S%S       S%S  S%S    S%S     ||
-||  S&S     S%S    d*S  S&S  S&S     S%S     S%S  S&S       S&S  S%S    S&S     ||
-||  S&S     S&S   .S*S  S&S  Y&Ss    S&S     S&S  S&S       S&S  S&S    S&S     ||
-||  S&S     S&S_sdSSS   S&S  `S&&S   S&S     S&S  S&S       S&S  S&S    S&S     ||
-||  S&S     S&S~YSY%b   S&S    `S*S  S&S     S&S  S&S       S&S  S&S    S&S     ||
-||  S*b     S*S   `S%b  S*S     l*S  S*S     S*S  S*b       d*S  S*S    S*S     ||
-||  S*S.    S*S    S%S  S*S    .S*P  S*S     S*S  S*S.     .S*S  S*S    S*S     ||
-||   SSSbs  S*S    S&S  S*S  sSS*S   S*S     S*S   SSSbs_sdSSS   S*S    S*S     ||
-||    YSSP  S*S    SSS  S*S  YSS'    SSS     S*S    YSSP~YSSY    S*S    SSS     ||
-||          SP          SP                   SP                  SP             ||
-||          Y           Y                    Y                   Y              ||
-||                                                                              ||
-||                                                                              ||
-\================================================================================/
+      .-.                                      
+       .;|/:                                   
+      .;   : .-.    .-.   .;.::.,  :      .    
+     .;    :;   : .;.-'   .;   ;   ;    .';    
+ .:'.;     :`:::'-'`:::'.;'  .'`..:;._.' .'    
+(__.'      `.                        '         
+  .-._   .-._.                                 
+.: (_)`-'      .-.                             
+::       .;.::.`-'    . . ,';.,';. .-.  . ,';. 
+::   _   .;   ;'    .'; ;;  ;;  ;;;   ;';;  ;; 
+`: .; ).;' _.;:._..' .'';  ;;  '; `;;' ';  ;;  
+  `--'           '    _;        `-'    ;    `. 
 ```
 
 ### ✦ touche-à-tout · bidouilleur · explorateur numérique ✦
