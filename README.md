@@ -28,15 +28,15 @@
 
 ### 🔭 Ce que je fais actuellement
 
-> 📦 Beacoup de repos privés 😅... pour l'instant. J'aime bien quand les détails sont paufinés
+> Beacoup de repos privés 😅... pour l'instant. J'aime bien quand les détails sont paufinés
 
-> 🛠️ Des expériences qui sont elles-mêmes expérimentales
+> Des expériences qui sont elles-mêmes expérimentales
 
-> 💾 Des retours dans le passé (émulation de NextStep, A/UX...)
+> 💾 Beaucoup de retours dans le passé (émulation de NextStep, A/UX...)
 
 > Un peu de philosophie sur notre rapport à la technologie
 
-> 🌐 Un peu de tout a vrai dire
+> 🌐 Ben peu de tout a vrai dire
 
 ---
 
@@ -58,6 +58,5 @@
 
 ---
 
-*🔒 Profil discret malheureusement · 🌑 En construction perpétuelle · 🎲 Toujours en train d'explorer et surement perdu pour la nation*
 
 </div>
