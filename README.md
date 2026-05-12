@@ -36,7 +36,7 @@
 
 > Un peu de philosophie sur notre rapport à la technologie
 
-> 🌐 Ben peu de tout a vrai dire
+> 🌐 Ben un peu de tout a vrai dire
 
 ---
 
