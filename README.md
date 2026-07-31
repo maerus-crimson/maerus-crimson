@@ -17,26 +17,10 @@
   `--'           '    _;        `-'    ;    `. 
 ```
 
-### ✦ beacoup trop touche-à-tout · bidouilleur inconscient ✦
-
 ---
 
 <!-- activity graph -->
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=maerus-crimson&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=ff6b6b&line=ffd93d&point=ff6b6b)
-
----
-
-### 🔭 Ce que je fais actuellement
-
-> Beacoup de repos privés 😅... pour l'instant. J'aime bien quand les détails sont paufinés
-
-> Des expériences qui sont elles-mêmes expérimentales
-
-> 💾 Beaucoup de retours dans le passé (émulation de NextStep, A/UX...)
-
-> Un peu de philosophie sur notre rapport à la technologie
-
-> 🌐 Ben un peu de tout a vrai dire
 
 ---
 
